@@ -16,14 +16,16 @@ Here are some ideas to get you started:
 Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
-[<img width="60%" align="left" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card"/>](https://santiagocodes.com/)
+
+<img width="48%" align="left" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card contact info" />  
 
 ## Dev Profile
 Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
 
 <!-- ## How I Work
 
-When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed: -->
+When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed: 
+-->
 
 ## Languages & Tools
 
