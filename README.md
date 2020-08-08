@@ -17,7 +17,7 @@ Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
 
-[<img align="right" width="50%" src="images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
+[<img align="right" width="50%" src="/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
 
 Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
 
