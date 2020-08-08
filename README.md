@@ -17,19 +17,13 @@ Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
 
-<img width="48%" align="left" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card contact info" />  
+[<img width="100%" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png" />](https://santiagocodes.com/)
 
-## Dev Profile
-Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
+Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community.
 
-<!-- ## How I Work
+## Languages and Tools
 
-When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed: 
--->
-
-## Languages & Tools
-
-<img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/html-logo-icon.png" alt="HTML logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/css-logo-icon.png" alt="CSS logo" /> <img width="45px" src="https://santiagocodes.github.io/santiagocodes/images/js-logo-icon.png" alt="Javascript JS logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/react-logo-icon.png" alt="React logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/nodejs-logo-icon.png" alt="Node logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/npm-logo-icon.png" alt="NPM logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/mysql-logo-icon.png" alt="MySQL logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/php-logo-icon.png" alt="PHP logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/bootstrap-logo-icon.png" alt="Bootstrap logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/tailwind-logo-icon.png" alt="Tailwind logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/trello-logo-icon.png" alt="Trello logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/heroku-logo-icon.png" alt="Heroku logo" />
+<img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/html-logo-icon.png" alt="HTML logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/css-logo-icon.png" alt="CSS logo" /> <img width="45px" src="https://santiagocodes.github.io/santiagocodes/images/js-logo-icon.png" alt="Javascript JS logo" /> <img width="64px" src="images/react-logo-icon.png" alt="React logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/nodejs-logo-icon.png" alt="Node logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/npm-logo-icon.png" alt="NPM logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/mysql-logo-icon.png" alt="MySQL logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/php-logo-icon.png" alt="PHP logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/bootstrap-logo-icon.png" alt="Bootstrap logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/tailwind-logo-icon.png" alt="Tailwind logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/trello-logo-icon.png" alt="Trello logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/heroku-logo-icon.png" alt="Heroku logo" />
 
 ## My Values
 
@@ -40,18 +34,19 @@ When working in a team I find that communication, setting priorities and having 
 :earth_africa: Explore and take care of our precious planet. <br />
 :roller_coaster: Life is a roller coster. Enjoy the ride!
 
+<!-- ## How I Work
+
+When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed: -->
+
 ## Get in Touch
 
-<img width="48%" align="right" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />  
 [![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com)
 [![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo)
 [![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
 
+<!-- <img align="left" width="50%" src="images/github-card-back.png" alt="santiagocodes presentation card contact info" /> -->
 
 <!-- <img width="16px" src="images/twitter-logo-icon.png" alt="Twitter logo" /> Twitter: [https://twitter.com/maricstgo](https://twitter.com/maricstgo) <br />
 <img width="16px" src="images/dev-logo-icon.png" alt="Dev.to logo" /> Dev.to: [https://dev.to/santiagocodes](https://dev.to/santiagocodes) <br />
 <img width="16px" src="images/linkedin-logo-icon.png" alt="Linkedin logo" /> LinkedIn: [https://www.linkedin.com/in/mc-santiago/](https://www.linkedin.com/in/mc-santiago/) <br />
 -->
-
-
-
