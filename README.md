@@ -17,8 +17,9 @@ Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
 
-[<img align="right" width="50%" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
+[<img width="60%" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
 
+## Dev Profile 
 Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
 
 ## Languages and Tools
@@ -40,11 +41,12 @@ When working in a team I find that communication, setting priorities and having 
 
 ## Get in Touch
 
-[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com)
-[![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo)
-[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
+<img width="60%" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />
 
-<img align="left" width="50%" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />
+[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=plastic)](https://santiagocodes.com) 
+[![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=plastic&logo=twitter)](https://twitter.com/maricstgo) 
+[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=plastic&logo=dev.to)](https://dev.to/santiagocodes) 
+
 
 <!-- <img width="16px" src="images/twitter-logo-icon.png" alt="Twitter logo" /> Twitter: [https://twitter.com/maricstgo](https://twitter.com/maricstgo) <br />
 <img width="16px" src="images/dev-logo-icon.png" alt="Dev.to logo" /> Dev.to: [https://dev.to/santiagocodes](https://dev.to/santiagocodes) <br />
