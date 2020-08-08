@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
-[<img width="48%" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
-<img width="48%" align="right" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />
+[<img width="60%" align="left" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card"/>](https://santiagocodes.com/)
 
-## Dev Profile 
+## Dev Profile
 Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
 
+## How I Work
+
+When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed:
 
 ## Languages & Tools
 
@@ -36,15 +38,13 @@ Hi there :wave: I am a web developer. You can usually find me working on front e
 :earth_africa: Explore and take care of our precious planet. <br />
 :roller_coaster: Life is a roller coster. Enjoy the ride!
 
-## How I Work
-
-When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed:
-
 ## Get in Touch
 
-[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=plastic)](https://santiagocodes.com) 
+|<img width="48%" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />|
+|    :----:   |
+|[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=plastic)](https://santiagocodes.com) 
 [![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=plastic&logo=twitter)](https://twitter.com/maricstgo) 
-[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=plastic&logo=dev.to)](https://dev.to/santiagocodes) 
+[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=plastic&logo=dev.to)](https://dev.to/santiagocodes) |
 
 
 <!-- <img width="16px" src="images/twitter-logo-icon.png" alt="Twitter logo" /> Twitter: [https://twitter.com/maricstgo](https://twitter.com/maricstgo) <br />
