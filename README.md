@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
-
-[<img width="60%" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
+[<img width="48%" src="https://santiagocodes.github.io/santiagocodes/images/github-card.png" alt="santiagocodes presentation card" />](https://santiagocodes.com/)
+<img width="48%" align="right" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />
 
 ## Dev Profile 
 Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writting articles and tutorials for the [DEV](https://dev.to/santiagocodes) community. 
 
-## Languages and Tools
+
+## Languages & Tools
 
 <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/html-logo-icon.png" alt="HTML logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/css-logo-icon.png" alt="CSS logo" /> <img width="24px" src="https://santiagocodes.github.io/santiagocodes/images/js-logo-icon.png" alt="Javascript JS logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/react-logo-icon.png" alt="React logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/nodejs-logo-icon.png" alt="Node logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/npm-logo-icon.png" alt="NPM logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/mysql-logo-icon.png" alt="MySQL logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/php-logo-icon.png" alt="PHP logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/bootstrap-logo-icon.png" alt="Bootstrap logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/tailwind-logo-icon.png" alt="Tailwind logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/trello-logo-icon.png" alt="Trello logo" /> <img width="32px" src="https://santiagocodes.github.io/santiagocodes/images/heroku-logo-icon.png" alt="Heroku logo" />
 
@@ -40,8 +41,6 @@ Hi there :wave: I am a web developer. You can usually find me working on front e
 When working in a team I find that communication, setting priorities and having a timeline from the beggining is one of the best ways to collaborate. I enjoy working with others and will adapt to any situation/work environment with ease. Just talk to me :relaxed:
 
 ## Get in Touch
-
-<img width="60%" src="https://santiagocodes.github.io/santiagocodes/images/github-card-back.png" alt="santiagocodes presentation card contact info" />
 
 [![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=plastic)](https://santiagocodes.com) 
 [![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=plastic&logo=twitter)](https://twitter.com/maricstgo) 
