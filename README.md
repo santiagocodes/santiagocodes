@@ -21,7 +21,7 @@ Logo Icons: https://icon-icons.com/
 
 ## Dev Profile
 
-Hi there :wave: I am a web developer. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writing articles and tutorials for the [DEV](https://dev.to/santiagocodes) community.
+Hi there :wave: I am a web developer based in Madrid. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writing articles and tutorials for the [DEV](https://dev.to/santiagocodes) community.
 
 ## Languages and Tools
 
@@ -42,9 +42,11 @@ When working in a team I find that communication, setting priorities and having 
 
 ## Get in Touch
 
-[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com)
-[![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo)
-[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
+[![Email](https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat)](mailto:santiagocodes@europe.com) 
+[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com) 
+[![twitter badge](https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo) 
+[![dev.to badge](https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
+
 
 <!-- <img align="left" width="50%" src="images/github-card-back.png" alt="santiagocodes presentation card contact info" /> -->
 
