@@ -40,10 +40,16 @@ When working in a team I find that communication, setting priorities and having 
 
 ## Get in Touch
 
-<img align="left" width="50%" src="images/github-card-back.png" alt="santiagocodes presentation card" />
+[![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com)
+[![twitter badge](https://img.shields.io/badge/twitter-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo)
+[![dev.to badge](https://img.shields.io/badge/dev.to-santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
 
-<img width="16px" src="images/twitter-logo-icon.png" alt="Twitter logo" /> Twitter: [https://twitter.com/maricstgo](https://twitter.com/maricstgo) <br />
+<img align="left" width="50%" src="images/github-card-back.png" alt="santiagocodes presentation card contact info" />
+
+<!-- <img width="16px" src="images/twitter-logo-icon.png" alt="Twitter logo" /> Twitter: [https://twitter.com/maricstgo](https://twitter.com/maricstgo) <br />
 <img width="16px" src="images/dev-logo-icon.png" alt="Dev.to logo" /> Dev.to: [https://dev.to/santiagocodes](https://dev.to/santiagocodes) <br />
 <img width="16px" src="images/linkedin-logo-icon.png" alt="Linkedin logo" /> LinkedIn: [https://www.linkedin.com/in/mc-santiago/](https://www.linkedin.com/in/mc-santiago/) <br />
+-->
+
 
 
