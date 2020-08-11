@@ -16,12 +16,21 @@ Here are some ideas to get you started:
 Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
+[<img width="100%" height="300" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png" />](https://santiagocodes.com/)
 
-[<img width="100%" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png" />](https://santiagocodes.com/)
+<p align='center'>
+  <a href="mailto:santiagocodes@europe.com"><img src="https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat"></a>
+  <a href="https://santiagocodes.com"><img src="https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat"></a>
+  <a href="https://twitter.com/maricstgo"><img src="https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter"></a>
+  <a href="https://dev.to/santiagocodes"><img src="https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to"></a>
+</p>
+<!--
 [![Email](https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat)](mailto:santiagocodes@europe.com) 
 [![website badge](https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat)](https://santiagocodes.com) 
 [![twitter badge](https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo) 
 [![dev.to badge](https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
+-->
+
 
 ## :octocat: Dev Profile
 
@@ -43,4 +52,3 @@ I enjoy working with others and will adapt to any situation/work environment wit
 :musical_note: Music can do wonders for the soul. <br />
 :earth_africa: Explore and take care of our precious planet. <br />
 :roller_coaster: Life is a roller coster. Enjoy the ride!
-
