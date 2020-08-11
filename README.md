@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
-[<img width="100%" height="300" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png" />](https://santiagocodes.com/)
-
 <p align='center'>
-  <a href="mailto:santiagocodes@europe.com"><img src="https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat"></a>
-  <a href="https://santiagocodes.com"><img src="https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat"></a>
-  <a href="https://twitter.com/maricstgo"><img src="https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter"></a>
-  <a href="https://dev.to/santiagocodes"><img src="https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to"></a>
+  <a src="https://santiagocodes.com/"><img width="90%" height="300" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png"/></a>
+  <a href="mailto:santiagocodes@europe.com"><img src="https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat"></a>&nbsp;
+  <a href="https://santiagocodes.com"><img src="https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat"></a>&nbsp;
+  <a href="https://twitter.com/maricstgo"><img src="https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter"></a>&nbsp;
+  <a href="https://dev.to/santiagocodes"><img src="https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to"></a>&nbsp;
 </p>
 <!--
 [![Email](https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat)](mailto:santiagocodes@europe.com) 
@@ -30,7 +29,6 @@ Logo Icons: https://icon-icons.com/
 [![twitter badge](https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter)](https://twitter.com/maricstgo) 
 [![dev.to badge](https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to)](https://dev.to/santiagocodes)
 -->
-
 
 ## :octocat: Dev Profile
 
@@ -44,7 +42,7 @@ I enjoy working with others and will adapt to any situation/work environment wit
 
 <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/html-logo-icon.png" alt="HTML logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/css-logo-icon.png" alt="CSS logo" /> <img width="45px" src="https://santiagocodes.github.io/santiagocodes/images/js-logo-icon.png" alt="Javascript JS logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/react-logo-icon.png" alt="React logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/nodejs-logo-icon.png" alt="Node logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/npm-logo-icon.png" alt="NPM logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/mysql-logo-icon.png" alt="MySQL logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/php-logo-icon.png" alt="PHP logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/bootstrap-logo-icon.png" alt="Bootstrap logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/tailwind-logo-icon.png" alt="Tailwind logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/trello-logo-icon.png" alt="Trello logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/heroku-logo-icon.png" alt="Heroku logo" />
 
-## :blush: My Values  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" height="200" align="right"/>
+## :blush: My Values  <img src="https://media.giphy.com/media/LSugiV8qLG7WM8xkV3/giphy.gif" width="200" height="200" align="right"/>
 
 :coffee: Coffee is a healthy addiction. <br />
 :books: There is always something new to learn. <br />
