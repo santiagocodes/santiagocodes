@@ -35,7 +35,7 @@ I enjoy working with others and will adapt to any situation/work environment wit
 
 <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/html-logo-icon.png" alt="HTML logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/css-logo-icon.png" alt="CSS logo" /> <img width="45px" src="https://santiagocodes.github.io/santiagocodes/images/js-logo-icon.png" alt="Javascript JS logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/react-logo-icon.png" alt="React logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/nodejs-logo-icon.png" alt="Node logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/npm-logo-icon.png" alt="NPM logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/mysql-logo-icon.png" alt="MySQL logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/php-logo-icon.png" alt="PHP logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/bootstrap-logo-icon.png" alt="Bootstrap logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/tailwind-logo-icon.png" alt="Tailwind logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/trello-logo-icon.png" alt="Trello logo" /> <img width="64px" src="https://santiagocodes.github.io/santiagocodes/images/heroku-logo-icon.png" alt="Heroku logo" />
 
-## :blush: My Values
+## :blush: My Values  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" height="200" align="right"/>
 
 :coffee: Coffee is a healthy addiction. <br />
 :books: There is always something new to learn. <br />
@@ -43,3 +43,4 @@ I enjoy working with others and will adapt to any situation/work environment wit
 :musical_note: Music can do wonders for the soul. <br />
 :earth_africa: Explore and take care of our precious planet. <br />
 :roller_coaster: Life is a roller coster. Enjoy the ride!
+
