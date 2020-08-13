@@ -17,7 +17,7 @@ Icons: https://gist.github.com/rxaviers/7360908
 Logo Icons: https://icon-icons.com/
 -->
 <p align='center'>
-  <a href="https://santiagocodes.com/"><img height="200" width="98%" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png"></a>
+  <a href="https://santiagocodes.com/"><img height="300" width="98%" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png"></a>
   <a href="https://santiagocodes.com"><img src="https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat"></a>&nbsp;
   <a href="https://twitter.com/maricstgo"><img src="https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter"></a>&nbsp;
   <a href="https://dev.to/santiagocodes"><img src="https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to"></a>&nbsp;
