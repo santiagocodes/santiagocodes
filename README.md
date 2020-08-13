@@ -28,7 +28,7 @@ Logo Icons: https://icon-icons.com/
 
 ##  Dev Profile
 
-Hi there :wave: I am a web developer based in Madrid. You can usually find me working on front end projects, but I occasionally delve into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writing articles and tutorials for the [DEV](https://dev.to/santiagocodes) community.
+Hi there :wave: I am a web developer based in Madrid. You can usually find me working on front end projects, but I also enjoy delving into back end (just to keep things interesting :wink:). When I'm not coding and solving challenges I am writing articles and tutorials for the [DEV](https://dev.to/santiagocodes) community.
 
 ## :computer: Languages, Frameworks and Tools
 <p align="center">
@@ -37,7 +37,7 @@ Hi there :wave: I am a web developer based in Madrid. You can usually find me wo
 
 ## :woman_technologist: How I Work
 
-I enjoy working with others and will adapt to any situation/work environment with ease. When working in a team I find that communication, setting priorities and having a timeline from the start reduces stress and is one of the best ways to get thing done right. :relaxed:
+I enjoy working with others and will adapt to any situation/work environment with ease. When working in a team I find that communication, setting priorities and having a timeline from the start reduces stress and is one of the best ways to get things done right. :relaxed:
 
 ## :blush: My Values <img src="https://media.giphy.com/media/LSugiV8qLG7WM8xkV3/giphy.gif" width="200" height="200" align="right"/>
 
