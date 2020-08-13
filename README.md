@@ -18,10 +18,10 @@ Logo Icons: https://icon-icons.com/
 -->
 <p align='center'>
   <a href="https://santiagocodes.com/"><img height="200" width="98%" src="https://santiagocodes.github.io/santiagocodes/images/santiagocodes-banner-1000x420.png"></a>
-  <a href="mailto:santiagocodes@europe.com"><img src="https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat"></a>&nbsp;
   <a href="https://santiagocodes.com"><img src="https://img.shields.io/badge/website-santiagocodes.com-blueviolet?style=flat"></a>&nbsp;
   <a href="https://twitter.com/maricstgo"><img src="https://img.shields.io/badge/twitter.com-@maricstgo-blue?style=flat&logo=twitter"></a>&nbsp;
   <a href="https://dev.to/santiagocodes"><img src="https://img.shields.io/badge/dev.to-@santiagocodes-black?style=flat&logo=dev.to"></a>&nbsp;
+  <a href="mailto:santiagocodes@europe.com"><img src="https://img.shields.io/badge/mailto-santiagocodes@europe.com-9cf.svg?style=flat"></a>&nbsp;
 </p>
 
 <img width="80px" align="left" src="https://santiagocodes.github.io/santiagocodes/images/octocat-santiagocodes.png" alt="santiagocodes octocat" />
